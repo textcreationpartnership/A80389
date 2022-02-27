@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aprill the first, 1642. A continuation of the tryumphant and cou[ra]gious proceedings of the Protestant army in Ireland. Containing divers great overthrowes given to the rebels, w[ith] the slaying and taking prisoners of some of the chiefe in rebellion[,] whose heads by proclamation were rated at 400. li. a peece. Also the manner how the rebels consecrated Kildar[e] church. Together, with an order from the House of Commons, unto th[e] shrieffes of each county.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80389</idno>
+            <idno type="STC">Wing C5972</idno>
+            <idno type="STC">Thomason E141_21</idno>
+            <idno type="STC">ESTC R7772</idno>
+            <idno type="EEBO-CITATION">99873187</idno>
+            <idno type="PROQUEST">99873187</idno>
+            <idno type="VID">156565</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80389)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156565)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E141[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Aprill the first, 1642. A continuation of the tryumphant and cou[ra]gious proceedings of the Protestant army in Ireland. Containing divers great overthrowes given to the rebels, w[ith] the slaying and taking prisoners of some of the chiefe in rebellion[,] whose heads by proclamation were rated at 400. li. a peece. Also the manner how the rebels consecrated Kildar[e] church. Together, with an order from the House of Commons, unto th[e] shrieffes of each county.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 6 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With title page woodcut.</note>
+                  <note>Cropped, with loss of text; bracketed material conjectured by cataloger.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156565:1" rendition="simple:additions"/>
+            <p>Aprill the firſt, 1642.</p>
+            <p>A Continuation of the Tryumphant and Cou<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gious proceedings of the Proteſtant Army in <hi>Ireland.</hi>
+            </p>
+            <p>Containing divers great overthrowes given to the Rebels, w<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> the ſlaying and taking Priſoners of ſome of the chiefe in Rebellion<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whoſe heads by Proclamation were rated at 400. <hi>li.</hi> a peece.</p>
+            <p>Alſo the manner how the Rebels Conſecrated KILDAR<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> CHURCH.</p>
+            <p>Together, With an Order from the Houſe of COMMONS, unto th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Shrieffes of each County.</p>
+            <figure>
+               <figDesc>soldiers marching</figDesc>
+            </figure>
+            <p>London Printed for John Wright, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156565:2"/>
+            <pb n="1" facs="tcp:156565:2"/>
+            <head>A Continuation of the Newes from <hi>Ireland,</hi> dated from thence <hi>March</hi> 25. 1642.</head>
+            <div type="part">
+               <p>LOving Brother I received yours of March 8, and am ſory to heare of theſe diferences betweene the King and Parliament, for they doe us in <hi>Ireland</hi> no ſmall harme. What hath hapned here ſin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e my laſt is no great matter; on the 6 of March went out 3000 foot and 600 horſe, the Lord of <hi>Ormond</hi> went with them, and <hi>Simon Harcourt</hi> commanded in generall under the Lord of <hi>Or<g ref="char:EOLhyphen"/>mond,</hi> Sir <hi>Charles Cout</hi> ſtaid at home, for ſo it is ever, when Sir <hi>Simon</hi> goes, Sir <hi>Charles</hi> keepes the City, and when Sir <hi>Charles</hi> goes Sir <hi>Simon</hi> keepes the City, they went with this foreſaid Army and 6 Peeces, intending to have ſome thing to doe with the Rebels in the Pale, but they all fled before our men and not one ſtood, all the Lords of the Pale fled towards the North, as not daring to ſhew their faces, ſo our Army ſet on pilaging and hanging ſome ſcat<g ref="char:EOLhyphen"/>tering Rouges, they pilage all the Pale as farre as to <hi>Tre<g ref="char:EOLhyphen"/>dath,</hi> till the two Armies at <hi>Tredath</hi> and <hi>Dublin</hi> could ſee each other, and rejoyce for ſo doing: They burnt all the Lords houſes in the Pale and Gentlemens, and fired all the whole Pale, for 17 miles in length, and neare 35 miles in breadth, a brave Countrey; looking now with nothing but the face of ruine, ſome ſix dayes after they went out, ſome foure Gentlemen of the Pale ſubmitted themſelves, which were ſent in as the 13 of this March, and are priſo<g ref="char:EOLhyphen"/>ners, and upon the 15 day returned the Army ſafe home with much ſpoyle of goods and Cattle, ſome Garriſons they left in ſtrong places, and the reſt of the places burnt, on the 17 day the Sheriffe of <hi>Antrum</hi> was ſent in to us a priſoner, who had beene in rebellion, and the ſame day
+<pb n="2" facs="tcp:156565:3"/>we had a ſervant of the Lord of <hi>Douſans</hi> one of the Lords of the Pale, who deſired to be reſcued to march, and pro<g ref="char:EOLhyphen"/>miſed he would be at <hi>Dublin</hi> as the 18, but is not come yet, on the 10 day we had newes the Rebels had made a head in the North againe, and intended to come in to the Pale againe, but we heare nothing of them, but ſome ſcat<g ref="char:EOLhyphen"/>tering Roagues that ſpoile Gentlemen: but a ſmall com<g ref="char:EOLhyphen"/>pany dares to goe to <hi>Tredath</hi> by land, wee had alſo newes, that day, the County of <hi>Wexford</hi> deſired to come in and lay downe armes, but how true that is, is not knowne, upon the ſame day, it was ordered at the Councell of warre, that an Army of 3000 foot and 500 horſe, and 6 Peeces ſhould on the 23 of March, if weather ſerved, goe toward the South part of <hi>Ireland,</hi> and Weſt part under Sir <hi>Charles Couts</hi> command to relieve the Caſtles in diſtreſſe, for there are many: this is that which befell ſince my laſt, and in great diſtreſſe is this place, for mony to pay Souldiers, having had but one 2000 pounds come or little more, for which cauſe ſuch taxes are upon our City, which is extreame poore, as to keepe 10000 Soul<g ref="char:EOLhyphen"/>diers in meat, lodging and mony, ſo here is nothing but bewayling, and none can live here at this paſſe, what will become of us God knowes, for we muſt be ſould to beg<g ref="char:EOLhyphen"/>gery, and this comes, in that rich men at firſt went away with their eſtates, leaving none but poore.</p>
+            </div>
+            <div type="part">
+               <p>LOving Brother, yours of <hi>March</hi> the 15. I received, with the Declaration and Diurnall, which all is but fad newes to us in <hi>Ireland</hi> to heare of ſuch things, in that we have heere no mony to pay the Souldiers with, and by which reaſon taxes are too great for our poore City, and I feare no ſmall matter is behind due to the Souldiers, which cauſeth ſtrange grumbling among them, and it may
+<pb n="3" facs="tcp:156565:3"/>well be, when mony is not ſo much as to buy the Souldi<g ref="char:EOLhyphen"/>ers ſhooes; that they are forced many of them to doe their duty bare foot, and theſe things are beſide, no ſmall in<g ref="char:EOLhyphen"/>couragement to the Papiſts and Rebels. Since my laſt da<g ref="char:EOLhyphen"/>ted <hi>March</hi> the 20. on the 21. of <hi>March,</hi> at evening came in the Lord of <hi>Douſeany</hi> of his owne will, as before he had promiſed, and is now priſoner in the Caſtle, on the 22. of this moneth Captaine <hi>Iohn Barlet,</hi> Captaine of one of the Kings Frygots: being at Sea lighted on a Ship com<g ref="char:EOLhyphen"/>ming from <hi>France</hi> bound for <hi>Roſe,</hi> laden with Corne, Wine, and Troop-ſaddles, wherein was five Papiſt Prieſts and one Comander an Iriſh man: he ſent in the Ship to our harbour; the Prieſts and reſt are committed to the Caſtle, and their Letters ceaſed on. The 23. of this month came in Sir <hi>William Elmore</hi> of his own accord, &amp; is impri<g ref="char:EOLhyphen"/>ſoned in the Caſtle: alſo upon the ſame day the Rate be<g ref="char:EOLhyphen"/>ing proved to rate on <hi>Read</hi> a Lieutenant, Colonell a<g ref="char:EOLhyphen"/>mong the Rebels, a Scotchman whom our Army took in their laſt going out into the Pale. Alſo <hi>Mac Mahun</hi> was rated that was the firſt priſoner taken, that ſhould with Lord <hi>Mac O Guere,</hi> taken our Caſtle. Sir <hi>Charles Cout</hi> with two more, was poynted to take their examination, moſt part of it was delivered privately, and ſome they deſired to have the next day, time to deliver it in writing, this they yeelded to all, a little raking all that I could heare they confeſſed, in publike was <hi>Mac Mahon</hi> ſaid, this Plot was concluded on by all the Lords, Knights, Citizens, and Burgeſſes, of the whole Parliament that were Papiſts, at times when they met together, and ſhould have beene for better end but for the delured Proteſtant, to plot how this miſchiefe ſhould be put in execution, which they had in their hearts long before.</p>
+               <p>
+                  <hi>Read</hi> confeſſed he knew of this Plot ever ſince the diſ<g ref="char:EOLhyphen"/>banding
+<pb n="4" facs="tcp:156565:4"/>our Iriſh Army, that was raiſed about the Scotch buſineſſe in which ſervice this <hi>Road</hi> was imployed, but I beleeve you will heare their confeſſions at large ſent by our Magiſtrates to <hi>England.</hi> The 24 of this moneth we had a meſſage from <hi>Tredath,</hi> that Sir <hi>Henry Tichborne</hi> heard the Rebels were gathering head at a place call'd <hi>Ardee,</hi> ſome 8 miles from him, hee about the 20 of this moneth marched all night to come in the morning to them with ſome 600 foot and ſome few horſe, the enemy being a great body, but he had the day of them, where he killed 300 of the Rebels, &amp; among the reſt was kild or taken Co<g ref="char:EOLhyphen"/>lonel <hi>Plunket</hi> and two others, that a Proclamation was out againſt them, ſetting their heads at 400 pounds a head, al<g ref="char:EOLhyphen"/>ſo a meſſage that the Lord <hi>Moore,</hi> while Sir <hi>Henry</hi> did the former act, went againſt a Caſtle ſome three miles off <hi>Tredath</hi> call d <hi>Plaren,</hi> which ſtood out againſt us, and our Army the laſt time it was out, the Lord <hi>Moore</hi> tooke the Caſtle and 100 Muskettieres in it, and Maſter <hi>Darſies</hi> el<g ref="char:EOLhyphen"/>deſt ſonne, whoſe fathers the Caſtle was, the father being in rebellion in the North; that day we had Letters alſo from <hi>Counah,</hi> that the Lord <hi>Tafft</hi> was dead, and one Sir <hi>Iames Dilon,</hi> not the Lord <hi>Dilons</hi> ſonne but another of the ſame name, hath beſieged <hi>Athlon,</hi> nd the Rebels helps him, and hath brought the Towne in great diſtreſſe, but Sir <hi>Edward Poufy</hi> who was in the Towne, who commanded a Troope of horſe, iſſued out to get in ſome hey and other proviſions, the Rebels got betweene the Towne and him, but the horſe made thoroy them all, and killed no leſſe then 150 or 200 of the Rebels, and with little loſſe got ſafe in the Towne againe, alſo wee heard that ſome of the Rebels had beſieg d <hi>Abboyle,</hi> and the chiefe of them were ſome of the youngeſt ſonnes o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Lord <hi>Tafft,</hi> alſo wee heard the ſame day ſome few horſe went out from <hi>Dublin,</hi>
+                  <pb n="5" facs="tcp:156565:4"/>and caught one Captaine <hi>Cadel</hi> a Rebell Captive; alſo we had a Prieſt hanged on <hi>Higgines</hi> that was taken at the <hi>Nauſe:</hi> ſome ſix weekes ſince, when ſome of our Army went that way, a Franciſcan he was by Order; this mor<g ref="char:EOLhyphen"/>ning I heare, that within a few dayes our Army is to goe toward the Queenes County, to relieve the Caſtle in di<g ref="char:EOLhyphen"/>ſtreſſe, there they had gone long ſince, but the wind blow<g ref="char:EOLhyphen"/>ing Eaſt great hopes was of money to pay the Souldiers, and they went not in that much diſcontent is among them for want of it, but this ſtay was to little purpoſe, hearing things as they are now with you.</p>
+               <p>I had certainely a friend tould me this morning, that the Papiſts have conſecrated <hi>Kildare</hi> Church, and ſayed Maſſe in it, which I write you, more for the manner, which was, that all Proteſtants bones were digged up, and corps buried in the Church caſt to the dunghill, and they ſay it was lawfull to ſay Maſſe, and thus they doe in all conſe<g ref="char:EOLhyphen"/>cration of Churches.</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>March</hi> 29. 1642.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="order">
+               <pb n="6" facs="tcp:156565:5"/>
+               <head>An Order from the Houſe of Commons unto the Shrieffes of each County reſpective<g ref="char:EOLhyphen"/>ly, for their true Collection of the foure Subſi<g ref="char:EOLhyphen"/>dies, and the other two Subſidies to be payd accordingly.</head>
+               <opener>
+                  <dateline>
+                     <date>Die Veneris <hi>25.</hi> Martij. <hi>1642.</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <head type="sub">It is this day Ordered upon the Queſtion by the Houſe of COMMONS.</head>
+               <p>THat the Knights and Burgeſſes of every County, bee injoyned to write unto the Shrieffes of their reſpe<g ref="char:EOLhyphen"/>ctive Counties, that they warne all Collectors of the foure Subſidies, who have not yet perfected their accounts, that they come and perfect their accounts by the beginning of next Terme, and that other Collectors of the two laſt Subſidies make their accounts alſo, by the latter end of the next Terme, as they will anſwer their neglect therein to this Houſe.</p>
+               <closer>
+                  <signed>Henry Elſynge Cler. Parl. D. Com.</signed>
+               </closer>
+            </div>
+            <div type="order">
+               <opener>
+                  <dateline>
+                     <date>Die Lunae 28. Martij 1642.</date>
+                  </dateline>
+               </opener>
+               <p>IT is this day Ordered by the Commons now aſſembled in Parliament, that this bee forthwith publiſhed i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Print.</p>
+               <closer>
+                  <signed>Henry Elſynge.</signed>
+               </closer>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
